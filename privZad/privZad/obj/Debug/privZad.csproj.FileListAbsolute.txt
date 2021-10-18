@@ -1,0 +1,7 @@
+C:\Users\Učenik07\source\repos\privZad\privZad\bin\Debug\privZad.exe.config
+C:\Users\Učenik07\source\repos\privZad\privZad\bin\Debug\privZad.exe
+C:\Users\Učenik07\source\repos\privZad\privZad\bin\Debug\privZad.pdb
+C:\Users\Učenik07\source\repos\privZad\privZad\obj\Debug\privZad.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\privZad\privZad\obj\Debug\privZad.csproj.CoreCompileInputs.cache
+C:\Users\Učenik07\source\repos\privZad\privZad\obj\Debug\privZad.exe
+C:\Users\Učenik07\source\repos\privZad\privZad\obj\Debug\privZad.pdb
