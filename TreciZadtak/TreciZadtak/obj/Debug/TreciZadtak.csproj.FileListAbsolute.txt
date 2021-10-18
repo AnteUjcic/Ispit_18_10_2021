@@ -1,0 +1,2 @@
+C:\Users\Učenik07\source\repos\TreciZadtak\TreciZadtak\obj\Debug\TreciZadtak.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\TreciZadtak\TreciZadtak\obj\Debug\TreciZadtak.csproj.CoreCompileInputs.cache
